@@ -6,6 +6,6 @@ The displayed tweet list would be refreshed every X seconds. X could be selected
 
 Support local unit test based on JUnit 4 test class: 
 
-1.Test from the command line  ./gradlew test
+1.Test from the command line:  ./gradlew test
 
 2.Test from Android Studio
